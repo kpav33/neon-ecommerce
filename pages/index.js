@@ -3,6 +3,8 @@ import { Inter } from "next/font/google";
 
 const inter = Inter({ subsets: ["latin"] });
 
+// https://dev.to/hackmamba/build-a-simple-e-commerce-pim-with-nextjs-prisma-and-neon-4ei2
+// Not completed, rather went with Fireship course
 export default function Home() {
   return (
     <main
